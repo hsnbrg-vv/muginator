@@ -115,7 +115,7 @@ A bottom tab bar has three tabs: **Brew**, **History** and **Settings**.
 
 - **Grinder model:** a text field with suggestions.
 - The first time a new model is used, the app asks for its range: min, max and step, defaulting to **0–9.9, step 0.1**. The range can be edited later in Settings → Grinders.
-- **Grind wheel:** modeled on the 1Zpresso K-Ultra adjustment ring (see `k-ultra-wheel.JPEG`).
+- **Grind wheel:** modeled on the 1Zpresso K-Ultra adjustment ring.
   - **Ring:** a horizontal brushed-silver ring seen from the side. It has a light metallic gradient with subtle noise texture, and darker bevel bands along the top and bottom edges.
   - **Markings:**
     - Digits 0–9 are spaced evenly with a raised dot halfway between each pair (the .5 position).
