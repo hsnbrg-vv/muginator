@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Muginator</title>
+  <defs>
+    <clipPath id="body">
+      <path d="M128 188Q128 178 138 178L318 178Q328 178 328 188L328 318Q328 362 284 362L172 362Q128 362 128 318Z"/>
+    </clipPath>
+  </defs>
+  <rect width="512" height="512" fill="#C49A6C"/>
+  <g transform="translate(-5 30)">
+    <!-- steam -->
+    <g fill="none" stroke="#FBF6EE" stroke-width="14" stroke-linecap="round">
+      <path d="M196 150C176 128 216 116 196 90"/>
+      <path d="M256 150C236 128 276 116 256 90"/>
+    </g>
+    <!-- handle -->
+    <path d="M316 214C404 204 408 326 316 318" fill="none" stroke="#4A2F1E" stroke-width="58" stroke-linecap="round"/>
+    <path d="M316 214C404 204 408 326 316 318" fill="none" stroke="#F3DE8A" stroke-width="30" stroke-linecap="round"/>
+    <!-- body -->
+    <path d="M128 188Q128 178 138 178L318 178Q328 178 328 188L328 318Q328 362 284 362L172 362Q128 362 128 318Z" fill="#F3DE8A"/>
+    <g clip-path="url(#body)">
+      <rect x="270" y="170" width="70" height="200" fill="#E2C463"/>
+      <rect x="120" y="170" width="220" height="34" fill="#F9EBAE"/>
+      <rect x="150" y="222" width="16" height="112" rx="8" fill="#FCF3CC"/>
+    </g>
+    <path d="M128 204H328" stroke="#4A2F1E" stroke-width="8"/>
+    <path d="M128 188Q128 178 138 178L318 178Q328 178 328 188L328 318Q328 362 284 362L172 362Q128 362 128 318Z" fill="none" stroke="#4A2F1E" stroke-width="14" stroke-linejoin="round"/>
+  </g>
+</svg>
